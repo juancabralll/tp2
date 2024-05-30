@@ -1,6 +1,9 @@
-print("Bienvenido al menú de cálculo")
+print("Bienvenido al menú de cálculo Geométrico")
 def mostrarmenu():
-
+    print("a) calcular área y perímetro de un cuadrado ")
+    print("b) calcular área y perímetro de un rectángulo")
+    print("c) calcular área y perímetro de un triángulo")
+    print("d) calcular área y perímetro de un círculo")
     print("e) Salir")
     
 mostrarmenu()
