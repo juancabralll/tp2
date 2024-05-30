@@ -21,3 +21,15 @@ lista de maquinas
 8-fresadora
 9-taladro de columna
 10-Torno para madera
+
+lista de elementos de proteccion para trabajador 
+1-casco de seguridad
+2-gafas de seguridad
+3-Mascarilla o respirador
+4-Protección auditiva (tapones o auriculares)
+5-guantes de seguridad
+6-Ropa de trabajo resistente
+7-Calzado de seguridad con puntera de acero.
+8-Rodilleras
+9-Protección facial completa
+10-chaleco reflectante
