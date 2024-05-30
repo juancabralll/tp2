@@ -1,1 +1,11 @@
 lista de herramientas 
+1-Martillo
+2-serrucho
+3-Formón
+4-cepillo
+5-sierra de mano
+6-Alicates
+7-gubia
+8-lima y escofina
+9-Cincel
+10-Tenazas
