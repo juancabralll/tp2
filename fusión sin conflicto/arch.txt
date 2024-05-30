@@ -9,3 +9,15 @@ lista de herramientas
 8-lima y escofina
 9-Cincel
 10-Tenazas
+
+lista de maquinas
+1-sierra de mesa
+2-sierra de cinta
+3-sierra circular
+4-ingletadora
+5-sierra de calar
+6-lijadora electrica
+7-cepillo electrico
+8-fresadora
+9-taladro de columna
+10-Torno para madera
